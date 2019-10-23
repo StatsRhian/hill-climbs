@@ -1,0 +1,9 @@
+{
+    "path" : "~/git/hill-climbs",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
